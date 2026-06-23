@@ -369,4 +369,7 @@ Esta separación permite mantener el código ordenado, mantenible y fácil de ex
 - Pruebas unitarias funcionando.
 - Rutas del Gateway funcionando.
 ```
+El proyecto incluye Dockerfile por microservicio y un docker-compose.yml para levantar Eureka,
+API Gateway, MySQL y los microservicios. Para el desarrollo y pruebas principales se ejecutó localmente desde IntelliJ, 
+y Docker queda configurado como alternativa de despliegue local contenerizado.
 
