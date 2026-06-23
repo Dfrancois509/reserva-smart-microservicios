@@ -370,14 +370,3 @@ Esta separación permite mantener el código ordenado, mantenible y fácil de ex
 - Rutas del Gateway funcionando.
 ```
 
----
-
-## Próximos pasos posibles
-
-```text
-- Agregar Dockerfile para contenerizar los microservicios.
-- Subir el proyecto completo a GitHub.
-- Preparar colección Postman.
-- Preparar guion de defensa técnica.
-- Agregar despliegue remoto si el docente lo solicita.
-```
