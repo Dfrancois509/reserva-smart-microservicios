@@ -6,7 +6,7 @@ ReservaSmart es una aplicación backend basada en arquitectura de microservicios
 
 El sistema permite registrar usuarios, administrar salas disponibles y crear reservas validando reglas de negocio importantes, como verificar que el usuario exista y esté activo, que la sala esté disponible y que no exista otra reserva activa en el mismo horario.
 
-Este proyecto fue desarrollado como evaluación parcial de la asignatura Desarrollo FullStack 1, aplicando arquitectura distribuida, patrón CSR, comunicación REST entre microservicios, API Gateway, Eureka, Swagger/OpenAPI, archivos YAML y pruebas unitarias con JUnit y Mockito.
+Este proyecto fue desarrollado aplicando arquitectura distribuida, patrón CSR, comunicación REST entre microservicios, API Gateway, Eureka, Swagger/OpenAPI, archivos YAML y pruebas unitarias con JUnit y Mockito.
 
 ---
 
